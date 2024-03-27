@@ -1,37 +1,37 @@
 pyrofork
- tgcrypto 
- pymongo[srv]
- motor
- marshmallow
- umongo
- requests 
- bs4 
- git+https://github.com/Joelkb/cinemagoer 
- shortzy 
- datetime 
- pytz 
- aiohttp
+tgcrypto 
+pymongo[srv]
+motor
+marshmallow
+umongo
+requests 
+bs4 
+git+https://github.com/Joelkb/cinemagoer 
+shortzy 
+datetime 
+pytz 
+aiohttp
 
 #---master---# 
- #Telethroid
- PyLeaves
+#Telethroid
+PyLeaves
   
   
- #---others----# 
- opencv-python-headless
- python-dotenv
- speedtest
- humanize
- Pillow
- psutil
- NumPy 
- wheel 
- ujson 
- wget 
- pytz
- aiofiles
- dnspython
- ### googletrans
+#---others----# 
+opencv-python-headless
+python-dotenv
+speedtest
+humanize
+Pillow
+psutil
+NumPy 
+wheel 
+ujson 
+wget 
+pytz
+aiofiles
+dnspython
+### googletrans
 python-decouple
 ffmpeg-python
 
