@@ -107,7 +107,7 @@ restart - ʀᴇꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ...
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/omvaibhav9/TOJI">
+<a href="https://heroku.com/deploy?template=https://github.com/INSIGHT-SURGE/INSIGHT-SURGE">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
