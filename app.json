@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/HarshalPurohitEdits/TheMovieProviderBot",
-    "repository": "https://github.com/HarshalPurohitEdits/TheMovieProviderBot",
+    "website": "https://github.com/INSIGHT-SURGE/INSIGHT-SURGE",
+    "repository": "https://github.com/INSIGHT-SURGE/INSIGHT-SURGE",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
