@@ -147,7 +147,7 @@ async def plan(client, message):
     users = message.from_user.mention 
     btn = [[
 	
-        InlineKeyboardButton("📸 sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ 📸", user_id=int(1936430521))],[InlineKeyboardButton("🗑 ᴄʟᴏsᴇ 🗑", callback_data="close_data")
+        InlineKeyboardButton("📸 sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ 📸", user_id=int(5696438657))],[InlineKeyboardButton("🗑 ᴄʟᴏsᴇ 🗑", callback_data="close_data")
     ]]
     await message.reply_photo(photo="https://graph.org/file/c5d0cc345b0aa0275b059.jpg", caption=script.PREMIUM_TEXT.format(message.from_user.mention), reply_markup=InlineKeyboardMarkup(btn))
     
