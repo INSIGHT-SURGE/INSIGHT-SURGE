@@ -758,7 +758,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton("🥇 ʙᴜʏ sᴜʙsᴄʀɪᴘᴛɪᴏɴ - ᴅɪʀᴇᴄᴛ ғɪʟᴇs 🥇", url=f'https://t.me/Luci_Movie_Group/19)
+                InlineKeyboardButton("🥇 ʙᴜʏ sᴜʙsᴄʀɪᴘᴛɪᴏɴ - ᴅɪʀᴇᴄᴛ ғɪʟᴇs 🥇", url=f'https://t.me/Luci_Movie_Group/19')
             ]
         )
         btn.insert(0, 
