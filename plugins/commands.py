@@ -137,7 +137,7 @@ async def start(client, message):
         
     if len(message.command) == 2 and message.command[1] in ["premium"]:
         buttons = [[
-                    InlineKeyboardButton('📸 sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ 📸', user_id=int(5696438657))
+                    InlineKeyboardButton('📸 sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ 📸', user_id=int(1966983383))
                   ],[
                     InlineKeyboardButton('🗑 ᴄʟᴏsᴇ 🗑', callback_data='close_data')
                   ]]
